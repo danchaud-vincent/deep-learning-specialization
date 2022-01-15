@@ -2,7 +2,11 @@
 
 This repo contains all the notes and projects taken during the Deep learning Specialization Course in Coursera
 
-source : DeepLearning.AI
+*** Sources ***
+source : 
+- Coursera
+- Youtube Channel : Machine Learnia
+- DeepLearning.AI
 
 Key:
 * **Number:** The number of the target notebook 
@@ -11,4 +15,4 @@ Key:
 
 | Number | Notebook | Data/Model |
 | ----- |  ----- |  ----- | 
-| 00 | [Introduction Deep Learning]() | None |
+| 00 | [Introduction Deep Learning](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/00-Introduction-Deep-Learning.ipynb) | None |
