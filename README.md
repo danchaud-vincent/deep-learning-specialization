@@ -23,3 +23,4 @@ This repo contains all the notes and projects taken during the Deep learning Spe
 | 03 | [Shallow Neural Network](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/03-Shallow%20Neural%20Network.ipynb) | None | Notes |
 | 04 | [Neural Network withe One hidden layer](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/04-Neural%20Network%20with%20one%20hidden%20layer.ipynb) | [Cat vs Dog dataset](https://github.com/danchaud-vincent/deep-learning-specialization/tree/main/datasets/02%20-%20cat%20vs%20dog) | Code |
 | 05 | [Deep Neural Network](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/05-Deep%20Neural%20Network.ipynb) | None | Notes |
+| 06 | [Build a L-layer Neural Network](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/06-Build%20a%20L-layer%20Neural%20network.ipynb) | None | Code |
