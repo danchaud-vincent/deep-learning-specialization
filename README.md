@@ -26,3 +26,4 @@ This repo contains all the notes and projects taken during the Deep learning Spe
 | 06 | [Build a L-layer Neural Network](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/06-Build%20a%20L-layer%20Neural%20network.ipynb) | None | Code |
 | 07 | [Improving Deep Neural Network-Part 1](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/07-Improving%20Deep%20Neural%20Network-Part_1.ipynb) | None | Notes |
 | 08 | [Test Initialization on Neural Network](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/08-Test%20Initialization%20on%20Neural%20Network.ipynb) | None | Code |
+| 09| [Test Regularization on Neural Network](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/09-Test%20Regularization%20on%20Neural%20Network.ipynb) | None | Code |
