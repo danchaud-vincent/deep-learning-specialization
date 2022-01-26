@@ -29,3 +29,5 @@ This repo contains all the notes and projects taken during the Deep learning Spe
 | 09 | [Test Regularization on Neural Network](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/09-Test%20Regularization%20on%20Neural%20Network.ipynb) | Planar Dataset & [Cat dataset](https://github.com/danchaud-vincent/deep-learning-specialization/tree/main/datasets/01%20-%20cat) | Code |
 | 10 | [Build a gradient checking]() | None | Code |
 | 11 | [Optimization algorithms]() | None | Notes |
+| 12 | [Build an Optimization algorithm]() | None | Code |
+| 13 | [Hyperparameters Tuning and Batch Normalization]() | None | Notes |
