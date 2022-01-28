@@ -27,7 +27,7 @@ This repo contains all the notes and projects taken during the Deep learning Spe
 | 07 | [Improving Deep Neural Network-Part 1](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/07-Improving%20Deep%20Neural%20Network-Part_1.ipynb) | None | Notes |
 | 08 | [Test Initialization on Neural Network](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/08-Test%20Initialization%20on%20Neural%20Network.ipynb) | Planar Dataset & [Cat dataset](https://github.com/danchaud-vincent/deep-learning-specialization/tree/main/datasets/01%20-%20cat) | Code |
 | 09 | [Test Regularization on Neural Network](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/09-Test%20Regularization%20on%20Neural%20Network.ipynb) | Planar Dataset & [Cat dataset](https://github.com/danchaud-vincent/deep-learning-specialization/tree/main/datasets/01%20-%20cat) | Code |
-| 10 | [Build a gradient checking]() | None | Code |
-| 11 | [Optimization algorithms]() | None | Notes |
-| 12 | [Build an Optimization algorithm]() | None | Code |
-| 13 | [Hyperparameters Tuning and Batch Normalization]() | None | Notes |
+| 10 | [Build a gradient checking](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/10-Build%20a%20gradient%20checking.ipynb) | None | Code |
+| 11 | [Optimization algorithms](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/11-Optimization%20algorithms.ipynb) | None | Notes |
+| 12 | [Build an Optimization algorithm](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/12-Build%20an%20Optimization%20algorithm.ipynb) | None | Code |
+| 13 | [Hyperparameters Tuning and Batch Normalization](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/13-Hyperparameters%20Tuning%20and%20Batch%20Normalization.ipynb) | None | Notes |
