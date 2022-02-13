@@ -31,3 +31,6 @@ This repo contains all the notes and projects taken during the Deep learning Spe
 | 11 | [Optimization algorithms](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/11-Optimization%20algorithms.ipynb) | None | Notes |
 | 12 | [Build an Optimization algorithm](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/12-Build%20an%20Optimization%20algorithm.ipynb) | None | Code |
 | 13 | [Hyperparameters Tuning and Batch Normalization](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/13-Hyperparameters%20Tuning%20and%20Batch%20Normalization.ipynb) | None | Notes |
+| 14 | [Structuring Machine Learning Projects](https://github.com/danchaud-vincent/deep-learning-specialization/blob/main/14-Structuring%20Machine%20Learning%20projects.ipynb) | None | Notes |
+
+
